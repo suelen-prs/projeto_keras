@@ -1,4 +1,4 @@
-﻿# Projero utilizando Keras
+﻿# Projeto utilizando Keras
  
 Keras é uma biblioteca de aprendizado profundo escrita em linguagem de programação Python, que é executada sobre a plataforma de aprendizado de máquina TensorFlow. Ela foi criada com o intuito de permitir a realização de experimentos de forma rápida e eficiente. A capacidade de transformar ideias em resultados em um curto espaço de tempo é fundamental para o sucesso da pesquisa.
 
